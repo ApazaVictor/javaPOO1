@@ -1,7 +1,7 @@
 
 package Vehiculo;
 
-//Autor:Victor Hugo
+//Autor:Victor hugo
 
 import java.util.Date;
 
